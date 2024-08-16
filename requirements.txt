@@ -1,0 +1,4 @@
+google-cloud-bigquery
+streamlit #front-end
+google-generativeai
+python-dotenv
